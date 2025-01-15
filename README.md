@@ -1,2 +1,2 @@
 # verlet_solver
-Naive physics engine written using C++
+Naive physics engine taken from YT tutorials.
